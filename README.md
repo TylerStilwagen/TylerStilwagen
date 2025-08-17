@@ -1,17 +1,17 @@
 <h1 align="center">Hey there! 👋</h1>
-<h3 align="center">I'm a Devops Engineer diving into LLM with a secret love for Systems Design!</h3>
+<h3 align="center">I'm a Devops Engineer with a focus on Systems Design!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnavalliappan&label=Profile%20views&color=0e75b6&style=flat" alt="krishnavalliappan" /> </p>
 
 - 🧪 Currently, I’m brewing up something special— **a shiny new Portfolio project​**
 
-- 🌱 Currently feeding my brain with some tasty **Machine Learning algorithms!**
+- 🌱 Currently feeding my brain with some tasty **AI/Machine Learning algorithms!**
 
 - 💬 Got questions about **AWS, Linux, or Python? I’m your go-to guy!**
 
 - 📫 Want to chat? Drop a line to **ty@i7ops.com!**
 
-- 📄 Curious about my adventures in data? [https://drive.google.com/file/d/1C8Q3u9k2ffspv9m8aZX1etb4FjDA3IVA/view?usp=drive_link](https://drive.google.com/file/d/1C8Q3u9k2ffspv9m8aZX1etb4FjDA3IVA/view?usp=drive_link)
+- 📄 Curious about my adventures in data?
 
 - ⚡ Fun fact: **I tell SQL to JOIN me for lunch but it keeps creating tables!**
 

@@ -1,5 +1,5 @@
-<h1 align="center">Hey there! 👋</h1>
-<h3 align="center">I'm a Devops Engineer with a focus on Systems Design!</h3>
+<h1 align="center">Hello World 👋</h1>
+<h3 align="center">I'm a Systems Engineer with a focus on Devops & Site Reliability!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnavalliappan&label=Profile%20views&color=0e75b6&style=flat" alt="krishnavalliappan" /> </p>
 
@@ -7,13 +7,9 @@
 
 - 🌱 Currently feeding my brain with some tasty **AI/Machine Learning algorithms!**
 
-- 💬 Got questions about **AWS, Linux, or Python? I’m your go-to guy!**
+- 💬 Got questions about **AWS, Kubernetes, or Python? I’m your go-to guy!**
 
 - 📫 Want to chat? Drop a line to **ty@i7ops.com!**
-
-- 📄 Curious about my adventures in data?
-
-- ⚡ Fun fact: **I tell SQL to JOIN me for lunch but it keeps creating tables!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
